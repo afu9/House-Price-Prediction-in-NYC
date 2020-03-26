@@ -9,3 +9,5 @@
 - Built and optimized prediction models using Regression and tree-based models (Random Forest and XGBoost)
 - Created queries with PostgreSQL and visualized results and dashboard of analysis with Tableau
 - Wrapped the model together with the processing and featuring functions as an API using Flask and served it on Google Cloud Platform.
+
+##### A prototype of flask web page can be found at http://35.223.136.170:5000/
